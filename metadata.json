@@ -1,0 +1,6 @@
+{
+  "name": "Grama Mudra | Traditional Millet Foods",
+  "description": "Authentic millet-based foods and traditional grains rooted in Srikakulam, Andhra Pradesh. Inspired by tradition, crafted for modern everyday wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
